@@ -1,0 +1,8 @@
+C:\Users\bhard\source\repos\ConsoleApp1\Elevator\bin\Debug\Elevator.dll
+C:\Users\bhard\source\repos\ConsoleApp1\Elevator\bin\Debug\Elevator.pdb
+C:\Users\bhard\source\repos\ConsoleApp1\Elevator\bin\Debug\Common.dll
+C:\Users\bhard\source\repos\ConsoleApp1\Elevator\bin\Debug\Common.pdb
+C:\Users\bhard\source\repos\ConsoleApp1\Elevator\obj\Debug\Elevator.csprojResolveAssemblyReference.cache
+C:\Users\bhard\source\repos\ConsoleApp1\Elevator\obj\Debug\Elevator.csproj.CoreCompileInputs.cache
+C:\Users\bhard\source\repos\ConsoleApp1\Elevator\obj\Debug\Elevator.dll
+C:\Users\bhard\source\repos\ConsoleApp1\Elevator\obj\Debug\Elevator.pdb

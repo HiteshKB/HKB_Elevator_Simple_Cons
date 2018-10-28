@@ -1,0 +1,10 @@
+C:\Users\bhard\source\repos\ConsoleApp1\Manager\bin\Debug\Manager.dll
+C:\Users\bhard\source\repos\ConsoleApp1\Manager\bin\Debug\Manager.pdb
+C:\Users\bhard\source\repos\ConsoleApp1\Manager\bin\Debug\Common.dll
+C:\Users\bhard\source\repos\ConsoleApp1\Manager\bin\Debug\Elevator.dll
+C:\Users\bhard\source\repos\ConsoleApp1\Manager\bin\Debug\Common.pdb
+C:\Users\bhard\source\repos\ConsoleApp1\Manager\bin\Debug\Elevator.pdb
+C:\Users\bhard\source\repos\ConsoleApp1\Manager\obj\Debug\Manager.csprojResolveAssemblyReference.cache
+C:\Users\bhard\source\repos\ConsoleApp1\Manager\obj\Debug\Manager.csproj.CoreCompileInputs.cache
+C:\Users\bhard\source\repos\ConsoleApp1\Manager\obj\Debug\Manager.dll
+C:\Users\bhard\source\repos\ConsoleApp1\Manager\obj\Debug\Manager.pdb

@@ -1,0 +1,13 @@
+C:\Users\bhard\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\bhard\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\bhard\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\bhard\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojResolveAssemblyReference.cache
+C:\Users\bhard\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\bhard\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\bhard\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\bhard\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\Elevator.dll
+C:\Users\bhard\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\Manager.dll
+C:\Users\bhard\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\Common.dll
+C:\Users\bhard\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\Elevator.pdb
+C:\Users\bhard\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\Manager.pdb
+C:\Users\bhard\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\Common.pdb
