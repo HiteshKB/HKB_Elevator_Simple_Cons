@@ -22,12 +22,12 @@ namespace Manager
         {
             if (floor > _elevator.TopFloor)
             {
-                Console.WriteLine("Only have {0} floors...", _elevator.TopFloor);
+                _elevator.MaxFloorMsg();
                 return;
             }
             if (floor <0)
             {
-                Console.WriteLine("No Basement floors...");
+                _elevator.NoBasementsMsg();
                 return;
             }
 

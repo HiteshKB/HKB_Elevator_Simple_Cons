@@ -16,5 +16,7 @@ namespace Elevator
         void MoveDown(int floor);
         void OpenDoor();
         void CloseDoor();
+        void MaxFloorMsg();
+        void NoBasementsMsg();
     }
 }

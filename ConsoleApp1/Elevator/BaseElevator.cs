@@ -26,6 +26,14 @@ namespace Elevator
         {
             Console.WriteLine("Door closing, at floor: {0}", this.CurrentFloor);
         }
+        public virtual void MaxFloorMsg()
+        {
+            Console.WriteLine("Only have {0} floors...", this.TopFloor);
+        }
+        public virtual void NoBasementsMsg()
+        {
+            Console.WriteLine("No Basement floors...");
+        }
         public abstract void MoveDown(int floor);
         public abstract void MoveUp(int floor);        
     }
